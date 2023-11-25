@@ -26,7 +26,7 @@ Research experience
   * University of Pennsylvania
   * Project: **Reactive Collision Avoidance using Neural Signed Distance Functions and
     Neural Radiance Fields**
-  * Supervisor: Professor Nadia Figueroa
+  * Supervisor: Prof. Nadia Figueroa
 
 * Dec. 2022 – Feb. 2023: Research Assistant
   * Github University
@@ -37,13 +37,13 @@ Research experience
   * Institute of Electronics, Chinese Academy of Sciences
   * Project: **Hyperspectral Remote Sensing Images Change Detection Based on Visual
     Transformer**
-  * Supervisor: Professor Keming Chen
+  * Supervisor: Prof. Keming Chen
  
 * Oct. 2020 – July. 2022: Research Assistant
   * University of Chinese Academy of Sciences
   * Project: **Enhancing Safety for Arctic Expedition Vehicles with Real-time Detection
     of Ice Crevasses**
-  * Supervisor: Professor Yan Liu
+  * Supervisor: Prof. Yan Liu
  
 Selected coursework
 ======
