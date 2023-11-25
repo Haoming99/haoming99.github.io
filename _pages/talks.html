@@ -8,7 +8,82 @@ author_profile: true
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-resssssss
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Research List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 20px;
+        }
+
+        .research-item {
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .authors {
+            font-size: 14px;
+            color: #555;
+        }
+
+        .description {
+            font-size: 16px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Your Research List</h1>
+
+    <ul>
+        <li class="research-item">
+            <div class="title">Title of Research Paper 1</div>
+            <div class="authors">Author1, Author2, Author3</div>
+            <div class="description">A brief description of the research paper.</div>
+        </li>
+
+        <li class="research-item">
+            <div class="title">Title of Research Paper 2</div>
+            <div class="authors">Author1, Author2, Author3</div>
+            <div class="description">A brief description of the research paper.</div>
+        </li>
+
+        <!-- Add more research items as needed -->
+
+    </ul>
+
+</body>
+</html>
+
+
+
+
+
 {% endif %}
 
 {% for post in site.talks reversed %}
