@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download my [cv](https://haoming99.github.io/assets/cv.pdf) to see details.
+Download my [cv](https://haoming99.github.io/assets/cv.pdf) to see more details.
 
 Education
 ======
