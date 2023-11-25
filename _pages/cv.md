@@ -17,6 +17,11 @@ Education
 
 Research experience
 ======
+* Oct. 2023 – Present: Master's thesis
+  * University of Pennsylvania
+  * Project: **Towards Generalisable Robust Safe Robotics Systems via Lipschitz Regularization**
+  * Supervisor: Prof. Nadia Figueroa and Prof. Pratik Chaudhari
+
 * May. 2023 – Present: Research Assistant
   * University of Pennsylvania
   * Project: **Reactive Collision Avoidance using Neural Signed Distance Functions and
