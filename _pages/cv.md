@@ -40,7 +40,7 @@ Research experience
     of Ice Crevasses
   * Supervisor: Professor Yan Liu
  
-Selected Coursework
+Selected coursework
 ======
 * University of Pennsylvania: Modern Convex Optimization (A+), Machine Perception (A), Linear System (A)
 * China University of Geosciences, Beijing: Digital Signal Processing (92.6/100), Embedded System (98.2/100), Data Structures (95/100), Elements of Information Theory (94.8/100), Linear Algebra (90.4/100), Probability and Statistics (95.2/100)
