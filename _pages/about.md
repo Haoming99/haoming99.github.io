@@ -12,3 +12,5 @@ I am a second year master's student in the Electrical and Systems Engineering de
 
 You can reach me at reallhm (att) seas (dott) upenn (dott) edu
 
+You can find my [CV](https://haoming99.github.io/assets/cv.pdf) and [research statment](https://haoming99.github.io/assets/sop.pdf) here.
+
