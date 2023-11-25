@@ -8,52 +8,47 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download my [cv](https://haoming99.github.io/assets/cv.pdf).
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electronics and Information Engineering, China University of Geosciences, Beijing, 2021
+* M.S. in Electrical Engineering, University of Pennsylvania, 2024 (Expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May. 2023 – Present: Research Assistant
+  * University of Pennsylvania
+  * Project: Reactive Collision Avoidance using Neural Signed Distance Functions and
+    Neural Radiance Fields
+  * Supervisor: Professor Nadia Figueroa
 
-* Fall 2015: Research Assistant
+* Dec. 2022 – Feb. 2023: Research Assistant
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Project: Improving Robustness by Restricting Estimated Lipschitz Constants of
+    Neural Networks
+    
+* Oct. 2020 – July. 2022: Research Assistant
+  * Institute of Electronics, Chinese Academy of Sciences
+  * Project: Hyperspectral Remote Sensing Images Change Detection Based on Visual
+    Transformer
+  * Supervisor: Professor Keming Chen
+ 
+* Oct. 2020 – July. 2022: Research Assistant
+  * University of Chinese Academy of Sciences
+  * Project: Enhancing Safety for Arctic Expedition Vehicles with Real-time Detection
+    of Ice Crevasses
+  * Supervisor: Professor Yan Liu
+ 
+Selected Coursework
+======
+* University of Pennsylvania: Modern Convex Optimization (A+), Machine Perception (A), Linear System (A)
+* China University of Geosciences, Beijing: Digital Signal Processing (92.6/100), Embedded System (98.2/100), Data Structures (95/100), Elements of Information Theory (94.8/100), Linear Algebra (90.4/100), Probability and Statistics (95.2/100)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python
+* C++
+* ROS
+* MATLAB
+* LATEX
