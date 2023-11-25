@@ -29,7 +29,7 @@ Research experience
   * Supervisor: Prof. Nadia Figueroa
 
 * Dec. 2022 – Feb. 2023: Research Assistant
-  * Github University
+  * University of Pennsylvania
   * Project: **Improving Robustness by Restricting Estimated Lipschitz Constants of
     Neural Networks**
     
