@@ -44,6 +44,19 @@ Research experience
   * Project: **Enhancing Safety for Arctic Expedition Vehicles with Real-time Detection
     of Ice Crevasses**
   * Supervisor: Prof. Yan Liu
+
+Projects
+======
+* Apr. 2023 – May. 2023: CIS580 Machine Perception Course Project
+  * University of Pennsylvania
+  * Project: **Novel View Synthesis via Neural Radiance Fields**
+  * Reproduce NeRF from scratch.
+
+* Oct. 2022 – Dec. 2022: ESE546 Principles of Deep Learning Course Project
+  * University of Pennsylvania
+  * Project: **Brain Neuroimage Super Resolution**
+  * Developed a method for generating super-resolution magnetic resonance images (MRIs) by combining the UNet architecture with generative   
+    adversarial networks (GANs).
  
 Selected coursework
 ======
